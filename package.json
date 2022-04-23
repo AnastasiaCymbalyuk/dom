@@ -8,7 +8,7 @@
     "lint": "eslint .",
     "test": "jest",
     "coverage": "jest --coverage",
-    "build": "webpack --config production.prod.js"
+    "build": "webpack --config webpack.prod.js"
   },
   "author": "coursar",
   "license": "MIT",
